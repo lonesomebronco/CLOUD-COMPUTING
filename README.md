@@ -16,8 +16,8 @@ ALL THE THREE FILES - chooseVM.txt , cpuALERT.txt , VnetWithSubnets.txt are the 
 The video of our presentation group5_CC_presentation.mp4 is available at - <br />
 https://drive.google.com/file/d/10mjqGMgJD-XuM3YQaxJiQ9d3K4VzScTO/view?usp=sharing <br />
 <br />
-The presentation is named as - CloudComputing.pdf and is  also available here at -<br />
-https://drive.google.com/file/d/1m0QBKWbQIaRfOuJF7oY0ybEp_g3GvzSQ/view?usp=sharing<br />
+The presentation is named as - Cloud Computing project presentation.pdf and is  also available here at -<br />
+https://drive.google.com/file/d/1VZS6Fg_gdLmyOZaE_KK8Mik7IqLAiucj/view?usp=sharing<br />
 <br />
 The report/paper is named as - PAPER.pdf and is also  available at - <br />
 https://drive.google.com/file/d/1uIU1RSFuUjlSbuSTutnppHdftqgjn9pR/view?usp=sharing <br />
