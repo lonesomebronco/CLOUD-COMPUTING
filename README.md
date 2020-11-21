@@ -4,9 +4,16 @@ We present a Software as a service run using easy to handle and manage docker co
 The solution minimizes the overhead needed for the service provider by using Containerization technology equipped with SSH for clients.
 Software used for this purpose - Firefox
 
+## What do we need to do?
+
+- **Run a container instance, and make it ready to use for the client by installing the software and the dependencies needed to run it.**
+- **Make an image out of the instance and host it.**
+- **Now, to provide different instances to different clients, we just need to make different docker instances for the different clients from the above image.**
+
+
 THIS CONTAINS ALL THE FILES FOR CLOUD COMPUTING PROJECT AND ASSIGNMENTS FOR THIS GROUP. <br />
 ALL THE THREE FILES - chooseVM.txt , cpuALERT.txt , VnetWithSubnets.txt are the JSON files of the ARM templates. 
-ThE video of our presentation group5_CC_presentation.mp4 is available at - <br />
+The video of our presentation group5_CC_presentation.mp4 is available at - <br />
 https://drive.google.com/file/d/10mjqGMgJD-XuM3YQaxJiQ9d3K4VzScTO/view?usp=sharing <br />
 <br />
 The presentation is named as - CloudComputingProject_ArmTemplates.pdf and is  also available here at -<br />
