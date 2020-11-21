@@ -4,7 +4,7 @@ We present a Software as a service run using easy to handle and manage docker co
 The solution minimizes the overhead needed for the service provider by using Containerization technology equipped with SSH for clients.
 Software used for this purpose - Firefox
 
-## What do we need to do?
+## What do we need to do to provide firefox as a service?
 
 - **Run a container instance, and make it ready to use for the client by installing the software and the dependencies needed to run it.**
 - **Make an image out of the instance and host it.**
