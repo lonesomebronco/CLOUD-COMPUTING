@@ -1,0 +1,35 @@
+1. yum install docker-ce
+2. systemctl restart docker
+3. systemctl enable docker
+4. docker pull centos:latest
+5. docker run -it -v {directory address where firefox and other dependencies stored}:/dvd -v /tmp/.X11-unix:/tmp/.X11-unix --name {randomName} centos
+6. cd /etc/yum.repos.d
+7. rm -rf *
+8. vi dvd.repo
+
+9. Write in file by pressing i: 	[dvd]
+					baseurl=file:///dvd
+					gpgcheck=0
+10. Press Esc and :wq to save the changes
+11. yum repolist
+12. yum install net-tools -y
+13. yum install firefox -y
+14. export DISPLAY=:0
+15. dbus-uuidgen > /etc/machine-id
+16. yum install openssh-server -y
+17. ssh-keygen
+18. vi /etc/ssh/sshd_config
+19. Press i and go to line containing #X11Forwarding yes and remove the '#'
+20. Press Esc and :wq to save the changes
+21. /usr/sbin/sshd
+22. netstat -tnlp
+23. vi /root/.bashrc
+24. Write in file in the last line by pressing i:	export DISPLAY=:0
+							/usr/sbin/sshd
+25. Press Esc and :wq to save the changes
+26. Exit the docker container by using left Ctrl + p + q
+27. docker commit {randomName} saas:v1
+28. docker run -it -v {directory address where firefox and other dependencies stored}:/dvd -v /tmp/.X11-unix:/tmp/.X11-unix --name {client1} saas:v1
+29. passwd root
+30. ifconfig
+31. Press Ctrl + p + q
