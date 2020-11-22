@@ -1,8 +1,30 @@
 # CLOUD-COMPUTING PROJECT
 # Providing SaaS using Docker Containers over the cloud
-We present a Software as a service run using easy to handle and manage docker containers, using SSH which eliminates the need for organizations(consumers) to install and run applications on their computers or in their own data centers instead running and using computation powers of the service provider.
-The solution minimizes the overhead needed for the service provider by using Containerization technology equipped with SSH for clients.<br />
-Software used for this purpose - Firefox<br />
+We have used Software as a Service (SaaS), a way of
+delivering applications over the network — as a service.
+Instead of installing and maintaining software, you simply
+access it via the Internet, freeing yourself from complex
+software and hardware management. The technique uses
+containerization using Dockers to provide different instances of
+the same Software Application to different customers. It is a
+way of encapsulating a Software Application with all of its
+related configuration files, libraries, and dependencies
+required for it to run in an efficient and bug-free way across
+different computing environments. We provide SAAS using
+Secure Shell (SSH) protocol, a software package that enables
+secure system administration and file transfers over insecure
+networks. The Service Provider might have to provide
+Graphical Application and for that, we have used
+X11-Forwarding, a mechanism that allows a user to start up
+remote applications but forward the application display to
+your machine. It is providing one way for an SSH connection to
+access graphical applications running on the SSH server.
+Finally, we present a Firefox application as a service run using
+docker containers, using SSH which eliminates the need for
+organizations to install and run applications on their
+computers or in their own data centers.
+Keywords— Software as a Service (SaaS), Containerization,
+Secure Shell (SSH) and X11 Forwarding<br />
 
 ## Team Members
 - **VAIBHAV SHARMA - 17ucs174<br />**
