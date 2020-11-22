@@ -24,7 +24,7 @@ docker containers, using SSH which eliminates the need for
 organizations to install and run applications on their
 computers or in their own data centers.
 Keywords— Software as a Service (SaaS), Containerization,
-Secure Shell (SSH) and X11 Forwarding<br />
+Secure Shell (SSH) and X11 Forwarding
 
 ## Team Members
 - **VAIBHAV SHARMA - 17ucs174<br />**
