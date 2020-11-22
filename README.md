@@ -5,11 +5,11 @@ The solution minimizes the overhead needed for the service provider by using Con
 Software used for this purpose - Firefox<br />
 
 ## Team Members
-**VAIBHAV SHARMA - 17ucs174<br />
-**ABHINAV MITTAL - 17ucs006<br />
-**GAURAV GOYAL - 17ucs056<br />
-**MAHIMAN BISSA - 17ucs085<br />
-**NISHIT GUPTA - 17ucs103<br />
+- **VAIBHAV SHARMA - 17ucs174<br />
+- **ABHINAV MITTAL - 17ucs006<br />
+- **GAURAV GOYAL - 17ucs056<br />
+- **MAHIMAN BISSA - 17ucs085<br />
+- **NISHIT GUPTA - 17ucs103<br />
 
 ## PROBLEM STATEMENT
 How SAAS can be provided to the consumers effectively with proper isolation and consistency?
