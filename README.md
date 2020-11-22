@@ -22,7 +22,7 @@ access graphical applications running on the SSH server.
 Finally, we present a Firefox application as a service run using
 docker containers, using SSH which eliminates the need for
 organizations to install and run applications on their
-computers or in their own data centers.
+computers or in their own data centers. <br />
 Keywords— Software as a Service (SaaS), Containerization,
 Secure Shell (SSH) and X11 Forwarding
 
