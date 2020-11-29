@@ -55,11 +55,11 @@ ALL THE THREE FILES - chooseVM.txt , cpuALERT.txt , VnetWithSubnets.txt are the 
 The video of our presentation Presentation_video.mp4 is available at - <br />
 https://drive.google.com/file/d/18kTCt1xmBqw-XTqvoX8DxP6nEn8Ns9Y3/view?usp=sharing <br />
 <br />
-The presentation is named as - CC_project_presentation.pdf and is  also available here at -<br />
-https://drive.google.com/file/d/1Xk_8osiPs2hTcba1T97zY1c8soAyQFuy/view?usp=sharing<br />
+The presentation is named as - Cloud computing project presentation_final.pdf and is  also available here at -<br />
+https://drive.google.com/file/d/1-Y8FoUBxSMLqOxKH7AHrn3uioC8-7XoW/view?usp=sharing<br />
 <br />
-The report/paper is named as - CC_Paper.pdf and is also  available at - <br />
-https://drive.google.com/file/d/1WGE6APDv_KFuyIJG-LvkKOBE47sHCaa3/view?usp=sharing <br />
+The report/paper is named as - Providing SaaS using docker containers over the cloud_final.pdf and is also  available at - <br />
+https://drive.google.com/file/d/1fuMzNC-kIdqqQtX0rS7KkzUGIuCOexj6/view?usp=sharing <br />
 <br />
 
 
